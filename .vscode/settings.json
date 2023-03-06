@@ -1,5 +1,6 @@
 {
     "files.exclude": {
+        "**/docs": true,
         "**/PSAppDeployToolkit.pdf": true
     }
 }
